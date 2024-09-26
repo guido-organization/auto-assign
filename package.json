@@ -23,7 +23,7 @@
     "dependencies": {
         "@octokit/graphql-schema": "10.41.0",
         "pg": "8.6.0",
-        "probot": "11.3.0"
+        "probot": "12.2.5"
     },
     "devDependencies": {
         "@octokit/types": "6.16.0",
